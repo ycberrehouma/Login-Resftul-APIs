@@ -5,6 +5,6 @@
 -The user is allowed to enter a sentence to the database (<b>MongoDB</b>) and each sentence costs a token
 
 -The restful apis are:
-/register
-/store
-/get
+<br>/register
+<br>/store
+<br> a/get
