@@ -7,4 +7,4 @@
 -The restful apis are:
 <br>/register
 <br>/store
-<br> a/get
+<br>/get
